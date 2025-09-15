@@ -1,0 +1,16 @@
+
+✅ FlareCast Launch Checklist
+
+☐ Upload FlareCast v1.4 files to Hostinger or chosen host
+☐ Install dependencies: Flask, fpdf, pandas
+☐ Run the app and confirm homepage loads successfully
+☐ Test the symptom log form and ensure it saves logs
+☐ Submit a baseline entry via /baseline
+☐ Generate a test report via /report
+☐ Check that logs and usage analytics are updating
+☐ Visit /terms and confirm Terms of Use is visible
+☐ Confirm mobile layout works on your phone
+☐ OPTIONAL: Set a weekly reminder to run log backup script
+
+📢 Now you're ready to invite users!
+
