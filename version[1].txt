@@ -1,0 +1,4 @@
+FlareCast Version: v1.1
+Update: Symptom Duration Added
+Baseline Day Intake Screen Initialized
+Date: 2025-04-30
